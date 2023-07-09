@@ -13,8 +13,8 @@ Priorizando a responsividade em diferentes tamanhos de telas utilizando o Media 
 
 ![image](https://github.com/jeferson-m/projeto-bikcraft/assets/106871718/c79b2584-3bff-4b1b-92ab-da2816f64ac7)
 
-Foi utilizado a propriedade @import para melhor organização dos arquivos CSS em pastas e facilitar
-a busca do código caso precise realizar qualquer ajuste.
+Foi utilizado a diretriz @import para carregar arquivos externos para o CSS e melhorar a
+organização do CSS facilitando a busca do código caso precise realizar qualquer ajuste.
 
 ![image](https://github.com/jeferson-m/projeto-bikcraft/assets/106871718/804bf6e7-46c6-4ba3-86aa-2dda297ccea3)
 
